@@ -9,7 +9,7 @@ public class DemoTest1 {
 		if (a < b) {
 			System.out.println("a is bigger");
 			
-			//testing
+			//i need to practice more java
 		}
 	}
 
